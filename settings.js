@@ -27,9 +27,9 @@ global.premium = ['6282142185506'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6282142185506' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Ang' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zuzu-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Zuzu' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 25,
 }
 
 //—————「 Set Image 」—————//
